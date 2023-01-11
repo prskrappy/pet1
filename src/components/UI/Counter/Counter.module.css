@@ -1,0 +1,19 @@
+.btn {
+    padding: 2px 0px;
+    color: teal;
+    font-size: 15px;
+    background: transparent;
+    border: 2px solid teal;
+    cursor: pointer;
+    margin: 5px;
+    width: 50px;
+    align-items: center;
+}
+
+.text {
+    padding: 10px;
+    color: teal;
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
